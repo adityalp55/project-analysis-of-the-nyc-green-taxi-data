@@ -1,6 +1,6 @@
 # Analysis of NYC Green Taxi Data
 ---
-### Authors: 
+### Author: 
 - **Aditya Maunakbhai Patel (Student: University at Buffalo)** [**(apatel-36@buffalo.edu)**](apatel36@buffalo.edu)
 
 ---
