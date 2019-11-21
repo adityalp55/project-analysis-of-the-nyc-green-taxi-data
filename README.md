@@ -3,7 +3,6 @@
 ### Authors: 
 - **Chase Murray(PhD) (Assistant Professor: University at Buffalo)** [**(cmurray3@buffalo.edu)**](cmurray3@buffalo.edu)
 - **Aditya Maunakbhai Patel (Student: University at Buffalo)** [**(apatel-36@buffalo.edu)**](apatel36@buffalo.edu)
-- **Forum Dharamshi Bhutaiya (Student: University at Buffalo)** [**(forumdha@buffalo.edu)**](forumdha@buffalo.edu)
 
 ### YouTube Video: [(**Link**)](https://youtu.be/f3k-uR91DLc)
 ---
